@@ -8,5 +8,6 @@ public class Test180708 {
     @Test
     public void test1(){
         System.out.println(12343-23424);
+        System.out.println("121313");
     }
 }
